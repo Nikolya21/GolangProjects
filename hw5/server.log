@@ -1,0 +1,4 @@
+[AUTH-SERVICE] [INFO] Service started
+[PAYMENT-SERVICE] [ERROR] Connection timeout
+[AUTH-SERVICE] [ERROR] Invalid token
+[DATABASE] [WARN] Slow query detected
